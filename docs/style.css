@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    font-family: Arial,sans-serif;
+    background-color: #ede5d7; 
+}
+
+.Header {
+    height: 100px;
+    background-color: #ead4ab;
+}
+
+.Logo {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.Nav-Home {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Nav-Home-Button {
+    
+    background-color: rgba(255, 255, 255, 0);
+    border: 0px;
+    cursor: pointer;
+    
+}
+
+.Main-Feed {
+    
+
+    background: #FFFFFF;
+    width: 500px;
+    height: 10000px;
+    margin: 0 auto;
+    
+}
+
+.Post {
+    
+    padding-top: 10px;
+    
+}
+
+.Donate{
+    
+    cursor: pointer;
+    height: 30px;
+    border-radius: 25px;
+    margin: 0 auto;
+    position: absolute;
+    right: 5%;
+    top: 4.5%;
+    width: 150px;
+    background-color: dodgerblue;
+    color: aliceblue;
+    font-family: Arial,monospace;
+    border: 0px;
+    
+}
+
+.Donate-div{
+    
+
+    background-color: rgba(255, 255, 255, 0);
+    
+}
